@@ -43,8 +43,8 @@ export function Overlay() {
           transition={{ duration: 1.2, ease: [0.16, 1, 0.3, 1], delay: 0.2 }}
         >
           <h1 className="font-display text-[4.5rem] md:text-[9rem] font-bold tracking-tighter leading-[0.9] mb-8 max-w-5xl text-transparent bg-clip-text bg-gradient-to-br from-white to-white/60">
-            Digital<br/>
-            Craftsman.
+            Product Manager<br/>
+            AI & Innovations
           </h1>
         </motion.div>
         
