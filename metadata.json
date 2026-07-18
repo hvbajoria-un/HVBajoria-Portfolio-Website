@@ -1,0 +1,6 @@
+{
+  "name": "3D Shader Portfolio",
+  "description": "A beautiful 3D portfolio website featuring interactive shaders, smooth scroll animations, and a modern design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
